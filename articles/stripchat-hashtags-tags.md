@@ -27,6 +27,8 @@ Tags used by roughly **500–2,000 rooms** tend to convert better than the bigge
 
 Because competition changes over time, a tag set that worked well a few months ago can quietly become oversaturated. If your traffic has dropped and you haven't touched your tags in a while, that's worth checking — see [Why My Traffic Dropped on Stripchat](why-traffic-dropped-on-stripchat).
 
+[EWOhub's low-viewers diagnostic guide](https://ewohub.com/why-low-viewers-webcam) is where the moderate-competition benchmark above comes from, and it covers the other common discovery blockers (thumbnail, schedule, off-platform presence) alongside tags.
+
 ## Tags Are One Piece of Discovery
 
 Tags determine whether you're in the right pool of rooms to be found at all. Once you're there, [StripScore](how-stripscore-works) and session-level [algorithm](stripchat-algorithm) signals determine how high you sit within it.

@@ -30,6 +30,8 @@ Your total OBS output bitrate (video + audio combined) should stay within **70�
 
 Stream quality and reliability feed directly into [StripScore](how-stripscore-works) — drops and instability aren't just a viewer-experience problem, they actively work against your ranking. Getting OBS settings right is as much a growth tactic as a technical one.
 
+A clean, reliable stream also matters if you're running external traffic — [EWOhub's Stripchat promotion](https://ewohub.com/stripchat-promo) sends viewers into your room, but a shaky setup is what makes them leave once they get there.
+
 ## Related Guides
 
 - [How StripScore Works](how-stripscore-works)

@@ -30,6 +30,8 @@ Stripchat also offers a **Full Toy Control** feature, available in both public a
 - Have a backup plan (manual control) in case the connection drops mid-show — toy disconnects during an active show are a common source of dead air.
 - Combine toy interaction with goals, since a group-funded escalation often outperforms individual random tips.
 
+Toy interaction is one piece of a broader tip-menu strategy — [EWOhub's income guide](https://ewohub.com/webcam-model-income-guide) covers how to structure pricing and menus around it for maximum revenue.
+
 ## Related Guides
 
 - [Stripchat Private Show Tips](stripchat-private-show-tips)

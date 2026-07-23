@@ -37,7 +37,7 @@ If your weekly balance doesn't clear the minimum for your chosen method, it typi
 
 ## Payout Is Downstream of Everything Else
 
-How much you have to pay out each week depends on the token volume covered in [How to Earn More Tokens on Stripchat](how-to-earn-more-tokens-on-stripchat) — pricing strategy, private shows, and consistent tipping all feed directly into your weekly payout size.
+How much you have to pay out each week depends on the token volume covered in [How to Earn More Tokens on Stripchat](how-to-earn-more-tokens-on-stripchat) — pricing strategy, private shows, and consistent tipping all feed directly into your weekly payout size. [EWOhub's income guide](https://ewohub.com/webcam-model-income-guide) goes deeper on the revenue side of that equation.
 
 ## Related Guides
 

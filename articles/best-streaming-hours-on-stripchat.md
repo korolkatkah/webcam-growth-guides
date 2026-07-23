@@ -29,7 +29,7 @@ The platform-wide peak is also the most saturated time — every model chasing t
 3. Identify where *your* regulars actually show up — this often differs from the platform average once you have real data.
 4. Keep the schedule consistent once you find it — consistency is itself a ranking factor (see [Stripchat Algorithm](stripchat-algorithm)).
 
-EWOhub tracks live market data — viewer trends and peak hours updated every 15 minutes — which is useful for cross-checking your own numbers against current platform-wide activity.
+[EWOhub tracks live market data](https://ewohub.com) — viewer trends and peak hours updated every 15 minutes — which is useful for cross-checking your own numbers against current platform-wide activity.
 
 ## Related Guides
 

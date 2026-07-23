@@ -42,7 +42,7 @@ Some US states (including Louisiana, Texas, and Florida) have additional age-ver
 
 ## Why This Matters Beyond Just Getting Approved
 
-Getting verification right the first time matters more than it might seem — delays here directly cut into your [new model boost window](stripchat-new-model-boost), which is time-limited from your first stream regardless of when verification clears.
+Getting verification right the first time matters more than it might seem — delays here directly cut into your [new model boost window](stripchat-new-model-boost), which is time-limited from your first stream regardless of when verification clears. Once you're verified and live, [EWOhub's new model growth support](https://ewohub.com/model-promotion) can help you make the most of that early window instead of figuring it out alone.
 
 ## Related Guides
 
