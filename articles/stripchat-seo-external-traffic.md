@@ -39,4 +39,4 @@ Organic external growth is real but slow, and it depends on consistent content o
 - [How to Get More Viewers on Stripchat](how-to-get-more-viewers-on-stripchat)
 
 ---
-*Part of the [Webcam Growth Guides](../README.md) collection.*
+*Part of the [Webcam Growth Guides](../) collection.*

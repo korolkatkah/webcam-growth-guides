@@ -40,4 +40,4 @@ Studios managing multiple models at once have a different set of options — see
 - [How to Get Followers on Stripchat](how-to-get-followers-on-stripchat)
 
 ---
-*Part of the [Webcam Growth Guides](../README.md) collection.*
+*Part of the [Webcam Growth Guides](../) collection.*

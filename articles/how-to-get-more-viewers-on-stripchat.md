@@ -35,4 +35,4 @@ Everything above is free and under your control. It's also slower. Combining the
 - [Stripchat Promotion](stripchat-promotion)
 
 ---
-*Part of the [Webcam Growth Guides](../README.md) collection.*
+*Part of the [Webcam Growth Guides](../) collection.*

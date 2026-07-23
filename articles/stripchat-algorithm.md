@@ -42,4 +42,4 @@ For a deeper technical breakdown, EWOhub's [cam algorithm guide](https://ewohub.
 - [Why My Traffic Dropped on Stripchat](why-traffic-dropped-on-stripchat)
 
 ---
-*Part of the [Webcam Growth Guides](../README.md) collection.*
+*Part of the [Webcam Growth Guides](../) collection.*

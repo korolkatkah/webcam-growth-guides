@@ -36,4 +36,4 @@ New models who want a faster, less trial-and-error start sometimes pair the plat
 - [Stripchat Verification](stripchat-verification)
 
 ---
-*Part of the [Webcam Growth Guides](../README.md) collection.*
+*Part of the [Webcam Growth Guides](../) collection.*

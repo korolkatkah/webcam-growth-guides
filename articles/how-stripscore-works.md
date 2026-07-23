@@ -44,4 +44,4 @@ Understanding the factors is step one. For a concrete action plan, see [How to I
 External resource: [EWOhub's guide to how cam algorithms rank rooms](https://ewohub.com/how-cam-algorithm-ranks-rooms).
 
 ---
-*Part of the [Webcam Growth Guides](../README.md) collection.*
+*Part of the [Webcam Growth Guides](../) collection.*

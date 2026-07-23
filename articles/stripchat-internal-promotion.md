@@ -39,4 +39,4 @@ Internal promotion is free but capped by Stripchat's existing traffic pool. Pair
 - [Stripchat Promotion](stripchat-promotion)
 
 ---
-*Part of the [Webcam Growth Guides](../README.md) collection.*
+*Part of the [Webcam Growth Guides](../) collection.*

@@ -38,4 +38,4 @@ EWOhub tracks live market data — viewer trends and peak hours updated every 15
 - [Why My Traffic Dropped on Stripchat](why-traffic-dropped-on-stripchat)
 
 ---
-*Part of the [Webcam Growth Guides](../README.md) collection.*
+*Part of the [Webcam Growth Guides](../) collection.*

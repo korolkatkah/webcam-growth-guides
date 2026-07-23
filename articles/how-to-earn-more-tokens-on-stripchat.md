@@ -40,4 +40,4 @@ EWOhub's [income guide](https://ewohub.com/webcam-model-income-guide) goes deepe
 - [Best Streaming Hours on Stripchat](best-streaming-hours-on-stripchat)
 
 ---
-*Part of the [Webcam Growth Guides](../README.md) collection.*
+*Part of the [Webcam Growth Guides](../) collection.*

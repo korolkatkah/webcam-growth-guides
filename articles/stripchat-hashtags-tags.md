@@ -38,4 +38,4 @@ Tags determine whether you're in the right pool of rooms to be found at all. Onc
 - [How to Rank Higher on Stripchat](how-to-rank-higher-on-stripchat)
 
 ---
-*Part of the [Webcam Growth Guides](../README.md) collection.*
+*Part of the [Webcam Growth Guides](../) collection.*

@@ -37,4 +37,4 @@ Stream quality and reliability feed directly into [StripScore](how-stripscore-wo
 - [How to Get More Viewers on Stripchat](how-to-get-more-viewers-on-stripchat)
 
 ---
-*Part of the [Webcam Growth Guides](../README.md) collection.*
+*Part of the [Webcam Growth Guides](../) collection.*

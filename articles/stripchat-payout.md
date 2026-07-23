@@ -46,4 +46,4 @@ How much you have to pay out each week depends on the token volume covered in [H
 - [Stripchat Private Show Tips](stripchat-private-show-tips)
 
 ---
-*Part of the [Webcam Growth Guides](../README.md) collection.*
+*Part of the [Webcam Growth Guides](../) collection.*

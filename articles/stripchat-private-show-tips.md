@@ -35,4 +35,4 @@ Private shows are one of several ways to diversify beyond live public-room tips.
 - [Stripchat Payout](stripchat-payout)
 
 ---
-*Part of the [Webcam Growth Guides](../README.md) collection.*
+*Part of the [Webcam Growth Guides](../) collection.*

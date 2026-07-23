@@ -39,4 +39,4 @@ Most models who grow steadily use at least two of these four at once rather than
 - [How to Rank Higher on Stripchat](how-to-rank-higher-on-stripchat)
 
 ---
-*Part of the [Webcam Growth Guides](../README.md) collection.*
+*Part of the [Webcam Growth Guides](../) collection.*

@@ -51,4 +51,4 @@ Getting verification right the first time matters more than it might seem — de
 - [Stripchat Internal Promotion](stripchat-internal-promotion)
 
 ---
-*Part of the [Webcam Growth Guides](../README.md) collection.*
+*Part of the [Webcam Growth Guides](../) collection.*

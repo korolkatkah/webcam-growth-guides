@@ -41,4 +41,4 @@ Ranking factors control your position *within* Stripchat's existing traffic. The
 - [How to Get More Viewers on Stripchat](how-to-get-more-viewers-on-stripchat)
 
 ---
-*Part of the [Webcam Growth Guides](../README.md) collection.*
+*Part of the [Webcam Growth Guides](../) collection.*

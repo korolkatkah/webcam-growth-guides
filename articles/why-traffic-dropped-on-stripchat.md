@@ -46,4 +46,4 @@ Most of these fixes take 4â€“6 weeks to show results once applied consistently â
 - [How to Rank Higher on Stripchat](how-to-rank-higher-on-stripchat)
 
 ---
-*Part of the [Webcam Growth Guides](../README.md) collection.*
+*Part of the [Webcam Growth Guides](../) collection.*

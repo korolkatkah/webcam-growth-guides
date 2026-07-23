@@ -53,4 +53,4 @@ If you're a studio managing multiple performers rather than a single room, the s
 
 ---
 
-*This guide is part of a growing collection of data-driven webcam model and studio growth resources. See the [repository README](../README.md) for the full index of articles.*
+*This guide is part of a growing collection of data-driven webcam model and studio growth resources. See the [full index of articles](../) for more.*

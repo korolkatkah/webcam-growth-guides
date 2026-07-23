@@ -48,4 +48,4 @@ StripScore optimization improves your position in Stripchat's *own* model list. 
 - [How to Earn More Tokens on Stripchat](how-to-earn-more-tokens-on-stripchat)
 
 ---
-*Part of the [Webcam Growth Guides](../README.md) collection.*
+*Part of the [Webcam Growth Guides](../) collection.*

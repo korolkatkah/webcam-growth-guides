@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 title: Webcam Growth Guides
 description: Data-driven guides on webcam model & studio growth, platform ranking algorithms, and traffic promotion.
 markdown: kramdown
+exclude:
+  - README.md

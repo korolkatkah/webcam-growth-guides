@@ -37,4 +37,4 @@ Stripchat also offers a **Full Toy Control** feature, available in both public a
 - [OBS Settings for Stripchat](obs-settings-for-stripchat)
 
 ---
-*Part of the [Webcam Growth Guides](../README.md) collection.*
+*Part of the [Webcam Growth Guides](../) collection.*

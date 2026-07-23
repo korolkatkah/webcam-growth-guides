@@ -42,4 +42,4 @@ If building this manually is more than you have bandwidth for, [EWOhub's cross-p
 - [Stripchat Promotion](stripchat-promotion)
 
 ---
-*Part of the [Webcam Growth Guides](../README.md) collection.*
+*Part of the [Webcam Growth Guides](../) collection.*
