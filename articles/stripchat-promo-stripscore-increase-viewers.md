@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Stripchat Promo: How StripScore Works and How to Increase Viewers"
+---
+
 # Stripchat Promo: How StripScore Works and How to Increase Viewers
 
 Growing a room on Stripchat comes down to two things working together: the platform's internal ranking system (**StripScore**) and a deliberate **Stripchat promo** strategy that drives outside traffic to your room. This guide breaks down both, plus practical steps you can apply today to increase viewers.

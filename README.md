@@ -1,3 +1,8 @@
+---
+layout: default
+title: Webcam Growth Guides
+---
+
 # Webcam Growth Guides
 
 A growing collection of data-driven guides on webcam model and studio promotion: platform ranking algorithms, traffic growth, and income optimization.
